@@ -2,7 +2,7 @@
 
 Tried basic contrast enhancement so that whatever random background color is picked, the text colors change to achieve highest contrast.
 
-![Example][https://github.com/Znasif/CodePathIOS/blob/974dec4e08a2fc21afcabcacbcfa7e5dd90af7ec/MyWalk.gif]
+![Example](https://github.com/Znasif/CodePathIOS/blob/974dec4e08a2fc21afcabcacbcfa7e5dd90af7ec/MyWalk.gif)
 
 # Application Brainstorming
 
