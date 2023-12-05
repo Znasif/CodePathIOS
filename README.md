@@ -2,8 +2,7 @@
 
 Tried basic contrast enhancement so that whatever random background color is picked, the text colors change to achieve highest contrast.
 
-Example:
-
+![Example][MyWalk.gif]
 
 # Application Brainstorming
 
